@@ -10,4 +10,4 @@ Dados do aluno
 Obrigado!!!
 
 
-0010
+001000000000000
